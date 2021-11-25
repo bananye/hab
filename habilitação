@@ -1,0 +1,14 @@
+Algoritmo idade;
+      var nome: caracter;
+      var data de nascimento; 
+Início
+      Escreva(“digite seu nome”);
+      Leia(nome);
+      Escreva(“digite sua data de nascimento”);
+      Leia(data de nascimento);
+subtração <- nascimento-2021;
+      Se idade >=18+
+       Escreva ("Você pode tirar sua habilitação!")
+       Se idade <=18
+       Escreva ("Você não pode tirar sua habilitação")
+Fim idade. 
